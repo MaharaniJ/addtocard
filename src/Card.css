@@ -1,0 +1,18 @@
+#star {
+    background-color: white;
+    border: none;
+    font-size: 30px;
+     }
+  .on {
+    color: gold;
+  }
+  .off {
+    color: #ccc;
+  }
+  .col-lg-4{
+    text-align: center;
+
+  }
+  img{
+    height: 250px;
+  }
