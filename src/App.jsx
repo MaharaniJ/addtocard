@@ -89,7 +89,7 @@ function App() {
               <div>No items in Cart</div>
             ) : (
               <div className="row">
-                <ol class="list-group list-group-numbered">
+                <ol className="list-group list-group-numbered">
                   {
                     cart.map((cartItem) => {
                       return <Cartitem cartItem={cartItem} removeFromAddToCard={removeFromAddToCard}></Cartitem>
